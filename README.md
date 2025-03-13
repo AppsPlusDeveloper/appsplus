@@ -1,22 +1,21 @@
-
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-	<head>
+<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Apps+Developer</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
 	<!-- Meta Data    -->
-	<meta name="description" content="Software Developer"/>
+<meta name="description" content="Software Developer"/>
 	<meta name="keywords" content="software, developer, animeworld, apps, github, java, code" />
 	<meta name="author" content="Apps +" />
 
 <!-- Social Meta Data -->
-	<meta property="og:title" content="Apps +"/>
+<meta property="og:title" content="Apps +"/>
 	<meta property="og:image" content="Images/Favs/logo.png"/>
 	<meta property="og:url" content=""/>
 	<meta property="og:site_name" content=""/>
@@ -26,10 +25,10 @@
 	<meta name="twitter:url" content="" />
 	<meta name="twitter:card" content="" />
 
-	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,400italic,700' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,400italic,700' rel='stylesheet' type='text/css'>
 	
-	<!-- Animate.css -->
-	<link rel="stylesheet" href="css/animate.css">
+<!-- Animate.css -->
+<link rel="stylesheet" href="css/animate.css">
 	<!-- Icomoon Icon Fonts-->
 	<link rel="stylesheet" href="css/icomoon.css">
 	<!-- Simple Line Icons -->
@@ -39,14 +38,14 @@
 	<!-- Bootstrap  -->
 	<link rel="stylesheet" href="css/bootstrap.css">
 
-	<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/style.css">
 
-	<!-- Styleswitcher ( This style is for demo purposes only, you may delete this anytime. ) -->
-	<link rel="stylesheet" id="theme-switch" href="css/style.css">
+<!-- Styleswitcher ( This style is for demo purposes only, you may delete this anytime. ) -->
+<link rel="stylesheet" id="theme-switch" href="css/style.css">
 
-	<link rel="shortcut icon" href="Images/Favs/logo.png">
+<link rel="shortcut icon" href="Images/Favs/logo.png">
 
-	<style>
+<style>
 	/* For demo purpose only */
 	
 	/* For Demo Purposes Only ( You can delete this anytime :-) */
@@ -151,13 +150,13 @@
 	</style>
 
 	<!-- Modernizr JS -->
-	<script src="js/modernizr-2.6.2.min.js"></script>
-	<!-- FOR IE9 below -->
+<script src="js/modernizr-2.6.2.min.js"></script>
+<!-- FOR IE9 below -->
 	<!--[if lt IE 9]>
-	<script src="js/respond.min.js"></script>
+<script src="js/respond.min.js"></script>
 	<![endif]-->
 
-	</head>
+</head>
 	<body>
 	<header role="banner" id="fh5co-header">
 			<div class="container">
@@ -174,18 +173,18 @@
 		            <li><a href="#" data-nav-section="work"><span>Apps</span></a></li>
 		            <li><a href="#" data-nav-section="testimonials"><span>Testimonios</span></a></li>
 		           
-		            <li><a href="#" data-nav-section="services"><span>Caracteristicas</span></a></li>
+<li><a href="#" data-nav-section="services"><span>Caracteristicas</span></a></li>
 		            <li><a href="#" data-nav-section="about"><span>Información</span></a></li>
 		            <li><a href="#" data-nav-section="contact"><span>Contacto</span></a></li>
 		           
-		          </ul>
+</ul>
 		        </div>
 			    </nav>
 			  <!-- </div> -->
 		  </div>
 	</header>
 
-	<section id="fh5co-home" data-section="home" style="background-image: url(Images/Intro/01.jpeg);" data-stellar-background-ratio="0.5">
+<section id="fh5co-home" data-section="home" style="background-image: url(Images/Intro/01.jpeg);" data-stellar-background-ratio="0.5">
 		<div class="gradient"></div>
 		<div class="container">
 			<div class="text-wrap">
@@ -202,7 +201,7 @@
 		<div class="slant"></div>
 	</section>
 
-	<section id="fh5co-intro">
+<section id="fh5co-intro">
 		<div class="container">
 			<div class="row row-bottom-padded-lg">
 				<div class="fh5co-block to-animate" style="background-image: url(Images/Intro/1.jpg);">
@@ -243,7 +242,7 @@
 		</div>
 	</section>
 
-	<section id="fh5co-work" data-section="work">
+<section id="fh5co-work" data-section="work">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 section-heading text-center">
@@ -257,7 +256,7 @@
 			</div>
 		   	<!-- item1 -->
 		   	
-						<div class="row row-bottom-padded-sm">
+<div class="row row-bottom-padded-sm">
 				<div class="col-md-4 col-sm-6 col-xxs-12">
 					<a href="app/anime-world.html" class="fh5co-project-item to-animate">
 						<img src="Images/Projects/App/Anime-World-2.gif" alt="Image" class="img-responsive">
@@ -271,7 +270,7 @@
 			     
 					   	<!-- item2 -->
 					   
-						<div class="row row-bottom-padded-sm">
+<div class="row row-bottom-padded-sm">
 				<div class="col-md-4 col-sm-6 col-xxs-12">
 					<a href="app/image-to-pdf-converter.html" class="fh5co-project-item to-animate">
 						<img src="Images/Projects/App/IMG-PDF.jpg" alt="Image" class="img-responsive">
@@ -284,7 +283,7 @@
 			</div>
 		   
 					   
-						<div class="row row-bottom-padded-sm">
+<div class="row row-bottom-padded-sm">
 				<div class="col-md-4 col-sm-6 col-xxs-12">
 					<a href="app/lottie-view.html" class="fh5co-project-item to-animate">
 						<img src="Images/Projects/App/Lottie-View.png" alt="Image" class="img-responsive">
@@ -297,10 +296,10 @@
 			</div>
 
 	
-		</div>
+</div>
 	</section>
 
-	<section id="fh5co-testimonials" data-section="testimonials">
+<section id="fh5co-testimonials" data-section="testimonials">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 section-heading text-center">
@@ -340,7 +339,7 @@
 					</div>
 				</div>
 
-				<div class="col-md-4">
+<div class="col-md-4">
 					<div class="box-testimony">
 						<blockquote class="to-animate-2">
 							<p>&ldquo;Los tutoriales de GitHub me han ayudado con mi proyecto personal, principalmente Intent-Filter para recibir datos como fotos y videos de otras Apps a la mía. &rdquo;</p>
@@ -355,11 +354,11 @@
 				</div>
 				
 				
-			</div>
+</div>
 		</div>
 	</section>
 
-	<section id="fh5co-services" data-section="services">
+<section id="fh5co-services" data-section="services">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 section-heading text-left">
@@ -383,9 +382,9 @@
 					<p>Nuestros diseños son simples y entendibles para cualquier usuario por mas principiante que sea en el uso de cuaquier App o servicio digital.</p>
 				</div>
 
-				<div class="clearfix visible-sm-block"></div>
+<div class="clearfix visible-sm-block"></div>
 
-				<div class="col-md-6 col-sm-6 fh5co-service to-animate">
+<div class="col-md-6 col-sm-6 fh5co-service to-animate">
 					<img src="Images/Icons/link.png" alt="Link" width="75" height="75" class="to-animate-2">
 					<h3>Servicios Integrados</h3>
 					<p>Nuestras apps tienen algunos servicios externos como Google Firebase para database, storage, messaging entre otros, también incluyen Google Admob para la monetización mediante Anuncios entre otros servicios.</p>
@@ -396,12 +395,12 @@
 					<p>Te damos algo de nuestro conocimiento a traves de nuestro perfil en github, ahí podriás obtener información sobre el desarrollo de algunas cosas.</p>
 				</div>
 				
-			</div>
+</div>
 		</div>
 	</section>
 	
 	<!-- ABOUT -->
-	<section id="fh5co-about" data-section="about">
+ <section id="fh5co-about" data-section="about">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 section-heading text-center">
@@ -432,8 +431,7 @@
 					</br><p class="text-center">Sígueme en mís redes sociales y descubre todo el contenido nuevo, tutoriales, repositorios, apps, etc.
 						</p>
 						
-											<a href="Images/Persons/proj/erick1.gif" class="image-popup">			<img src="Images/Persons/proj/erick1.gif" alt="ProjectErick" class="img-responsive"></a> </br> </br>
-						
+<a href="Images/Persons/proj/erick1.gif" class="image-popup">			<img src="Images/Persons/proj/erick1.gif" alt="ProjectErick" class="img-responsive"></a> </br> </br>
 						<ul class="social social-circle text-center">
 							<li><a href="https://github.com/AppsPlusDeveloper"><i class="icon-github"></i></a></li>
 							<li><a href="#"><i class="icon-facebook"></i></a></li>
@@ -447,23 +445,22 @@
 						<h3 class="text-center">Ana Yaneth</h3>
 						<span class="fh5co-position text-center">Diseñadora</span>
 						<p class="text-center">Diseñadora de logos, iconos y diseño en XML.</p></br>
-						
 						<center>
 						    
-						    <img src="Images/Leng/xml.gif" alt="" class="imglen">
+<img src="Images/Leng/xml.gif" alt="" class="imglen">
 						    <img src="Images/Leng/css.gif" alt="" class="imglen">
 						    <img src="Images/Leng/bootstrap.gif" alt="" class="imglen">
 						    
-						</center>
+</center>
 					
-					</div>
+</div>
 				</div>
 				
-			</div>
+</div>
 		</div>
 	</section>
 	
-	<section id="fh5co-counters" style="background-image: url(Images/Intro/0.png);" data-stellar-background-ratio="0.5">
+<section id="fh5co-counters" style="background-image: url(Images/Intro/0.png);" data-stellar-background-ratio="0.5">
 		<div class="fh5co-overlay"></div>
 		<div class="container">
 			<div class="row">
@@ -504,7 +501,7 @@
 		</div>
 	</section>
 
-	<section id="fh5co-contact" data-section="contact">
+<section id="fh5co-contact" data-section="contact">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 section-heading text-center">
@@ -535,20 +532,20 @@
 					
 					
 					
-				</div>
+</div>
 			</div>
 		</div>
 	</section>
 	
 	
-	<footer id="footer" role="contentinfo">
+<footer id="footer" role="contentinfo">
 		<a href="#" class="gotop js-gotop"><i class="icon-arrow-up2"></i></a>
 		<div class="container">
 			<div class="">
 				<div class="col-md-12 text-center">
 					<p>&copy; Apps + Developer. All Rights Reserved. <br>Created by <a href="#" target="_blank">Erick Cervantes</a> Images: <a href="http://pexels.com/" target="_blank">Pexels</a>, <a href="http://plmd.me/" target="_blank">plmd.me</a></p>
 					
-				</div>
+</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12 text-center">
@@ -560,7 +557,7 @@
 				</div>
 			</div>
 			
-		</div>
+</div>
 	</footer>
 	
 	
@@ -570,27 +567,27 @@
 
 	
 	<!-- jQuery -->
-	<script src="js/jquery.min.js"></script>
+<script src="js/jquery.min.js"></script>
 	<!-- jQuery Easing -->
-	<script src="js/jquery.easing.1.3.js"></script>
+<script src="js/jquery.easing.1.3.js"></script>
 	<!-- Bootstrap -->
-	<script src="js/bootstrap.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
 	<!-- Waypoints -->
-	<script src="js/jquery.waypoints.min.js"></script>
+<script src="js/jquery.waypoints.min.js"></script>
 	<!-- Stellar Parallax -->
-	<script src="js/jquery.stellar.min.js"></script>
+<script src="js/jquery.stellar.min.js"></script>
 	<!-- Counter -->
-	<script src="js/jquery.countTo.js"></script>
+<script src="js/jquery.countTo.js"></script>
 	<!-- Magnific Popup -->
-	<script src="js/jquery.magnific-popup.min.js"></script>
-	<script src="js/magnific-popup-options.js"></script>
+<script src="js/jquery.magnific-popup.min.js"></script>
+<script src="js/magnific-popup-options.js"></script>
 	<!-- Google Map -->
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCefOgb1ZWqYtj7raVSmN4PL2WkTrc-KyA&sensor=false"></script>
-	<script src="js/google_map.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCefOgb1ZWqYtj7raVSmN4PL2WkTrc-KyA&sensor=false"></script>
+<script src="js/google_map.js"></script>
 
 <!-- For demo purposes only styleswitcher ( You may delete this anytime ) -->
-	<script src="js/jquery.style.switcher.js"></script>
-	<script>
+<script src="js/jquery.style.switcher.js"></script>
+<script>
 		$(function(){
 			$('#colour-variations ul').styleSwitcher({
 				defaultThemeId: 'theme-switch',
@@ -608,7 +605,7 @@
 	<!-- End demo purposes only -->
 
 	<!-- Main JS (Do not remove) -->
-	<script src="js/main.js"></script>
+<script src="js/main.js"></script>
 
-	</body>
+</body>
 </html>
